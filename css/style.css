@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Abhaya+Libre|Noto+Sans+JP|Satisfy&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+ 
+@import url("components/cards.css");
+
+
+body{
+	font-family: 'Noto Sans JP', sans-serif;
+	color: #334862;
+	font-size: 15px;
+	text-align: center;
+	background-color: #F7F7F7;
+}
+
+h1{
+	font-family: 'Satisfy', cursive;
+	color: #5A8438;
+	text-align: center;
+	font-style: italic;
+}
+
+
+.lettrine {
+	font-size: 150px;
+}
+
+h2, h3 {
+	font-family: 'Abhaya Libre', serif;
+	color: #5A8438;
+	text-align: center;
+	font-weight: bold;
+}

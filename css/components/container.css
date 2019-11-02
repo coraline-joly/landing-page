@@ -1,0 +1,29 @@
+.container{
+	width:1000px;
+	margin: 0 auto;
+}
+
+
+.presentation_justify{
+	text-align: justify;
+}
+ 
+
+@media (max-width: 960px) {
+  .container {
+    width: 1000px;
+  }
+
+
+@media (max-width: 800px) {
+  .container {
+    width: 600px;
+  }
+
+
+@media (max-width: 540px) {
+  .container {
+    width: 500px;
+    font-size: 13px;
+	}
+}
